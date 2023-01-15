@@ -8,7 +8,7 @@ Requirement: <br>
 4.Calculate quartiles, find outliers, and create a box plot<br>
 5.Create a line plot and a scatter plot <br>
 6.Calculate correlation and regression <br>
-7.Submit final analysis <br>
+7.Submit analysis <br>
 
 
 
